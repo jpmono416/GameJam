@@ -46,5 +46,12 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+<<<<<<< HEAD
 Assets/Plugins
 UserSettings
+=======
+
+Assets/Plugins
+UserSettings
+ProjectSettings
+>>>>>>> 39b08d6cc3c518e91e0a8189590b600be34dcef9
